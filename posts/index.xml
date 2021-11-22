@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on GrGrie new site :)</title>
-    <link>http://grgrie.github.com/posts/</link>
+    <link>https://grgrie.github.io/posts/</link>
     <description>Recent content in Posts on GrGrie new site :)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Nov 2021 18:40:36 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 19:26:13 +0300</lastBuildDate>
     
-	<atom:link href="http://grgrie.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grgrie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Me</title>
+      <link>https://grgrie.github.io/posts/me/</link>
+      <pubDate>Mon, 22 Nov 2021 19:26:13 +0300</pubDate>
+      
+      <guid>https://grgrie.github.io/posts/me/</guid>
+      <description>Гречкин Григорий Сергеевич Студент 1 курса магистратуры РУДН, группа НПМмд-02-21 Родился 01.05.2000, закончил бакалавриат Физ-Мат факультета РУДН по направлению &amp;ldquo;Математика и компьютерные науки&amp;rdquo;</description>
+    </item>
+    
+    <item>
       <title>My first post</title>
-      <link>http://grgrie.github.com/posts/post1/</link>
+      <link>https://grgrie.github.io/posts/post1/</link>
       <pubDate>Mon, 22 Nov 2021 18:40:36 +0300</pubDate>
       
-      <guid>http://grgrie.github.com/posts/post1/</guid>
+      <guid>https://grgrie.github.io/posts/post1/</guid>
       <description>Hello, this is my first post here!</description>
     </item>
     
