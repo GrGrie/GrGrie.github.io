@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GrGrie new site :)</title>
+    <link>http://grgrie.github.com/posts/</link>
+    <description>Recent content in Posts on GrGrie new site :)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Nov 2021 18:40:36 +0300</lastBuildDate>
+    
+	<atom:link href="http://grgrie.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first post</title>
+      <link>http://grgrie.github.com/posts/post1/</link>
+      <pubDate>Mon, 22 Nov 2021 18:40:36 +0300</pubDate>
+      
+      <guid>http://grgrie.github.com/posts/post1/</guid>
+      <description>Hello, this is my first post here!</description>
+    </item>
+    
+  </channel>
+</rss>
