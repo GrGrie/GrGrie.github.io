@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GrGrie new site :)</title>
+    <title>Gregory Grechkin website</title>
     <link>https://grgrie.github.io/</link>
-    <description>Recent content on GrGrie new site :)</description>
+    <description>Recent content on Gregory Grechkin website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Nov 2021 19:26:13 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 05 Dec 2021 23:25:38 +0300</lastBuildDate>
     
 	<atom:link href="https://grgrie.github.io/index.xml" rel="self" type="application/rss+xml" />
     
