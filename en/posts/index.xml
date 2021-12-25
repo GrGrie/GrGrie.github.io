@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Welcome to my personal blog website</title>
+    <link>https://grgrie.github.io/en/posts/</link>
+    <description>Recent content in Posts on Welcome to my personal blog website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Website by GrGrie</copyright>
+    <lastBuildDate>Sat, 18 Dec 2021 20:42:34 +0300</lastBuildDate>
+    
+	<atom:link href="https://grgrie.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://grgrie.github.io/en/posts/projects/</link>
+      <pubDate>Sat, 18 Dec 2021 20:42:34 +0300</pubDate>
+      
+      <guid>https://grgrie.github.io/en/posts/projects/</guid>
+      <description>Project I took part in: My individual projects: In case you see this text, that means you see the result of my first project - website. All of its source code you can find on my GitHub page: GitHub
+Group project: I am working on &amp;ldquo;Advertisement efficiency&amp;rdquo; project with my friends from NPMmd-02-21. Here is the link to our first stage presentation, where we&amp;rsquo;ll tell you more about this project: First stage</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://grgrie.github.io/en/posts/me/</link>
+      <pubDate>Mon, 22 Nov 2021 19:26:13 +0300</pubDate>
+      
+      <guid>https://grgrie.github.io/en/posts/me/</guid>
+      <description>Grechkin Gregory 1st year student of the RUDN Master&amp;rsquo;s degree, NPMmd-02-21 group Born on 01.05.2000, graduated from the Bachelor&amp;rsquo;s degree in Physics and Mathematics of the Faculty of RUDN in the direction of &amp;ldquo;Mathematics and Computer Science&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://grgrie.github.io/en/posts/post1/</link>
+      <pubDate>Mon, 22 Nov 2021 18:40:36 +0300</pubDate>
+      
+      <guid>https://grgrie.github.io/en/posts/post1/</guid>
+      <description>Hello, this is my first post here!</description>
+    </item>
+    
+  </channel>
+</rss>

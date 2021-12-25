@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://grgrie.github.io/posts/</loc>
-    <lastmod>2021-12-18T20:42:34+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grgrie.github.io/posts/projects/</loc>
-    <lastmod>2021-12-18T20:42:34+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grgrie.github.io/</loc>
-    <lastmod>2021-12-05T23:25:38+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grgrie.github.io/posts/me/</loc>
-    <lastmod>2021-11-22T19:26:13+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grgrie.github.io/posts/post1/</loc>
-    <lastmod>2021-11-22T18:40:36+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grgrie.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://grgrie.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://grgrie.github.io/ru/sitemap.xml</loc>
+		
+	   	<lastmod>2021-12-18T20:42:34+03:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://grgrie.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2021-12-18T20:42:34+03:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

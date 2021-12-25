@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://grgrie.github.io/en/posts/</loc>
+    <lastmod>2021-12-18T20:42:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://grgrie.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grgrie.github.io/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://grgrie.github.io/en/posts/projects/</loc>
+    <lastmod>2021-12-18T20:42:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://grgrie.github.io/posts/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grgrie.github.io/en/posts/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://grgrie.github.io/en/</loc>
+    <lastmod>2021-12-18T20:42:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://grgrie.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grgrie.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://grgrie.github.io/en/posts/me/</loc>
+    <lastmod>2021-11-22T19:26:13+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://grgrie.github.io/posts/me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grgrie.github.io/en/posts/me/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://grgrie.github.io/en/posts/post1/</loc>
+    <lastmod>2021-11-22T18:40:36+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://grgrie.github.io/posts/post1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grgrie.github.io/en/posts/post1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://grgrie.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://grgrie.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grgrie.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://grgrie.github.io/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://grgrie.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://grgrie.github.io/en/tags/"
+                />
+  </url>
+  
+</urlset>

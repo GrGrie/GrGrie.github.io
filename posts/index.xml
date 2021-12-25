@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Gregory Grechkin website</title>
+    <title>Posts on Добро пожаловать на мой сайт</title>
     <link>https://grgrie.github.io/posts/</link>
-    <description>Recent content in Posts on Gregory Grechkin website</description>
+    <description>Recent content in Posts on Добро пожаловать на мой сайт</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Website by GrGrie</copyright>
     <lastBuildDate>Sat, 18 Dec 2021 20:42:34 +0300</lastBuildDate>
     
 	<atom:link href="https://grgrie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Projects</title>
+      <title>Мои проекты</title>
       <link>https://grgrie.github.io/posts/projects/</link>
       <pubDate>Sat, 18 Dec 2021 20:42:34 +0300</pubDate>
       
       <guid>https://grgrie.github.io/posts/projects/</guid>
-      <description>Проекты, в которых я учавствовал: Индивидуальный проект: Если вы видете этот текст, то вы находитесь на моём сайте, который уже сам по себе является индивидуальным проектом. Весь сайт, разумеется, есть на GitHub. Вот ссылка на репозиторий: https://github.com/GrGrie/grgrie.github.io/
-Групповой проект: Я с компанией других студентов моей группы НПМмд-02-21 работаю над проектом Эффективности рекламы. Ссылка на презентацию нашего первого, ознакомительного вводного этапа: https://onedrive.live.com/?authkey=%21ALQH2JeKbFYmOK4&amp;amp;cid=D224637EB8D958C9&amp;amp;id=D224637EB8D958C9%215248&amp;amp;parId=D224637EB8D958C9%215247&amp;amp;o=OneUp/</description>
+      <description>Проекты, в которых я учавствовал: Индивидуальный проект: Если вы видете этот текст, то вы находитесь на моём сайте, который уже сам по себе является индивидуальным проектом. Весь сайт, разумеется, есть на GitHub. Вот ссылка на репозиторий: GitHub
+Групповой проект: Я с компанией других студентов моей группы НПМмд-02-21 работаю над проектом Эффективности рекламы. Ссылка на презентацию нашего первого, ознакомительного вводного этапа: Первый этап</description>
     </item>
     
     <item>
@@ -31,12 +32,12 @@
     </item>
     
     <item>
-      <title>My first post</title>
+      <title>Мой первый пост</title>
       <link>https://grgrie.github.io/posts/post1/</link>
       <pubDate>Mon, 22 Nov 2021 18:40:36 +0300</pubDate>
       
       <guid>https://grgrie.github.io/posts/post1/</guid>
-      <description>Hello, this is my first post here!</description>
+      <description>Здравствуйте, я только осваиваю Hugo и это мой первый пост в личном блоге</description>
     </item>
     
   </channel>
